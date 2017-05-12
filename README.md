@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-[![Stories in Ready](https://badge.waffle.io/pakchano/game-above-issues.png?label=ready&title=Ready)](https://waffle.io/pakchano/game-above-issues)
+[![Stories in Ready](https://badge.waffle.io/pakchano/game-above-issues.png?label=ready&title=Ready%20for%20Development)](https://waffle.io/pakchano/game-above-issues)
 
 # Above: The Fallen
 A collection of resources and issues tracking of the game [Above: The Fallen](https://twitter.com/AboveFallenGame).
